@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Exponential Bit-Complexity Tightening, Optimal b-ary Matching Trees, and Exact Sharp Support Thresholds for Normal-Form Correlated Equilibria in Extensive-Form Games"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Eriksson
+    given-names: Lluis
+date-released: 2026-11-26
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/lluiseriksson/extensive-form-nfce-sharp-gap-and-hardness"

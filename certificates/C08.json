@@ -1,0 +1,118 @@
+{
+  "cert_id": "C08",
+  "data": {
+    "samples": [
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.11778303",
+        "m_chps": 64,
+        "m_sharp_binary": 8,
+        "m_sharp_ternary": 9,
+        "r": 2,
+        "target_inv_r2_dec": "0.25000000"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.06062462",
+        "m_chps": 256,
+        "m_sharp_binary": 32,
+        "m_sharp_ternary": 27,
+        "r": 3,
+        "target_inv_r2_dec": "0.11111111"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.04580953",
+        "m_chps": 512,
+        "m_sharp_binary": 64,
+        "m_sharp_ternary": 81,
+        "r": 4,
+        "target_inv_r2_dec": "0.06250000"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.03077165",
+        "m_chps": 1024,
+        "m_sharp_binary": 128,
+        "m_sharp_ternary": 243,
+        "r": 5,
+        "target_inv_r2_dec": "0.04000000"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.01357925",
+        "m_chps": 4096,
+        "m_sharp_binary": 512,
+        "m_sharp_ternary": 729,
+        "r": 8,
+        "target_inv_r2_dec": "0.01562500"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.00875066",
+        "m_chps": 8192,
+        "m_sharp_binary": 1024,
+        "m_sharp_ternary": 2187,
+        "r": 10,
+        "target_inv_r2_dec": "0.01000000"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.00365542",
+        "m_chps": 32768,
+        "m_sharp_binary": 4096,
+        "m_sharp_ternary": 6561,
+        "r": 16,
+        "target_inv_r2_dec": "0.00390625"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.00094559",
+        "m_chps": 262144,
+        "m_sharp_binary": 32768,
+        "m_sharp_ternary": 59049,
+        "r": 32,
+        "target_inv_r2_dec": "0.00097656"
+      },
+      {
+        "binary_reduction_factor": [
+          8,
+          1
+        ],
+        "ln_hi_dec": "0.00024029",
+        "m_chps": 2097152,
+        "m_sharp_binary": 262144,
+        "m_sharp_ternary": 531441,
+        "r": 64,
+        "target_inv_r2_dec": "0.00024414"
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "cf82abda5b558e711995ceb4113eaff8ac91c087881b1e25dfc61c0e131b4fb3",
+  "title": "Exact >=8x sharpening of dimension-based PPAD-hardness matching tree"
+}

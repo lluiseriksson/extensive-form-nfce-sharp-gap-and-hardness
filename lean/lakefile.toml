@@ -1,0 +1,6 @@
+name = "ExtensiveFormNfceSharp"
+version = "0.1.0"
+defaultTargets = ["ExtensiveFormNfceSharp"]
+
+[[lean_lib]]
+name = "ExtensiveFormNfceSharp"

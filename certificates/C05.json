@@ -1,0 +1,138 @@
+{
+  "cert_id": "C05",
+  "data": {
+    "samples": [
+      {
+        "V": 15,
+        "Z": 8,
+        "b": 2,
+        "d1": 2,
+        "d2": 2,
+        "internal_prefixes": 1,
+        "k": 1,
+        "m": 2,
+        "overhead_f_b": [
+          6,
+          1
+        ],
+        "r": 2,
+        "sigma_exponent": 1
+      },
+      {
+        "V": 75,
+        "Z": 47,
+        "b": 2,
+        "d1": 11,
+        "d2": 11,
+        "internal_prefixes": 7,
+        "k": 3,
+        "m": 8,
+        "overhead_f_b": [
+          6,
+          1
+        ],
+        "r": 5,
+        "sigma_exponent": 7
+      },
+      {
+        "V": 231,
+        "Z": 130,
+        "b": 2,
+        "d1": 36,
+        "d2": 36,
+        "internal_prefixes": 31,
+        "k": 5,
+        "m": 32,
+        "overhead_f_b": [
+          6,
+          1
+        ],
+        "r": 6,
+        "sigma_exponent": 31
+      },
+      {
+        "V": 21,
+        "Z": 13,
+        "b": 3,
+        "d1": 3,
+        "d2": 3,
+        "internal_prefixes": 1,
+        "k": 1,
+        "m": 3,
+        "overhead_f_b": [
+          6,
+          1
+        ],
+        "r": 2,
+        "sigma_exponent": 1
+      },
+      {
+        "V": 81,
+        "Z": 58,
+        "b": 3,
+        "d1": 12,
+        "d2": 12,
+        "internal_prefixes": 4,
+        "k": 2,
+        "m": 9,
+        "overhead_f_b": [
+          6,
+          1
+        ],
+        "r": 5,
+        "sigma_exponent": 4
+      },
+      {
+        "V": 525,
+        "Z": 357,
+        "b": 3,
+        "d1": 85,
+        "d2": 85,
+        "internal_prefixes": 40,
+        "k": 4,
+        "m": 81,
+        "overhead_f_b": [
+          6,
+          1
+        ],
+        "r": 6,
+        "sigma_exponent": 40
+      },
+      {
+        "V": 29,
+        "Z": 20,
+        "b": 4,
+        "d1": 4,
+        "d2": 4,
+        "internal_prefixes": 1,
+        "k": 1,
+        "m": 4,
+        "overhead_f_b": [
+          20,
+          3
+        ],
+        "r": 2,
+        "sigma_exponent": 1
+      },
+      {
+        "V": 453,
+        "Z": 341,
+        "b": 4,
+        "d1": 67,
+        "d2": 67,
+        "internal_prefixes": 21,
+        "k": 3,
+        "m": 64,
+        "overhead_f_b": [
+          20,
+          3
+        ],
+        "r": 5,
+        "sigma_exponent": 21
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "a8529d6e146f6912d8b687cb4fd10d00e642f046512d63c1b3c2c1838ee133a7",
+  "title": "Exact node, leaf, and b-invariant sequence-form dimension counts for Gamma_b"
+}

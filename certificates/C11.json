@@ -1,0 +1,38 @@
+{
+  "cert_id": "C11",
+  "data": {
+    "instances": [
+      {
+        "b": 2,
+        "conditional_uniformity_verified": true,
+        "equals_m_squared": true,
+        "exact_nfce": true,
+        "k": 1,
+        "m": 2,
+        "max_regret": [
+          0,
+          1
+        ],
+        "r": 2,
+        "support_size": 4
+      },
+      {
+        "b": 2,
+        "conditional_uniformity_verified": true,
+        "equals_m_squared": true,
+        "exact_nfce": true,
+        "k": 2,
+        "m": 4,
+        "max_regret": [
+          0,
+          1
+        ],
+        "r": 2,
+        "support_size": 16
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "36e04f067f9dc1084f9f19077b17a8ae69f9007315fba5d9446bf98c4aa1adb6",
+  "title": "Constructive exact m^2-support NFCE on binary Gamma_2(Matching Pennies)"
+}

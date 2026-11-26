@@ -1,0 +1,11 @@
+{
+  "cert_id": "C16",
+  "data": {
+    "file": "verify_paper104.py",
+    "passed": true,
+    "violations": []
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "9fb5e55585a9104ca72cf974bbf988a017026a7f25481c839e631a6d645884d6",
+  "title": "Self-referential AST zero-float and exact-arithmetic security audit"
+}

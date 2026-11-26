@@ -1,0 +1,7 @@
+Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+Copyright (c) 2026 Lluis Eriksson
+
+The manuscript (paper/main.tex, paper/main.pdf) and figures (paper/figures/*.png) in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
+
+All code, Lean 4 formalizations, Python verification scripts, tests, and SHA-256 certificates are licensed under the MIT License (see LICENSE).

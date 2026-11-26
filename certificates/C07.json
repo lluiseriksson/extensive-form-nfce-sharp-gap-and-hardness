@@ -1,0 +1,65 @@
+{
+  "cert_id": "C07",
+  "data": {
+    "table": [
+      {
+        "V_minus_6d": -3,
+        "kappa_d_le_kappa_V": false,
+        "r": 2
+      },
+      {
+        "V_minus_6d": -3,
+        "kappa_d_le_kappa_V": false,
+        "r": 3
+      },
+      {
+        "V_minus_6d": -1,
+        "kappa_d_le_kappa_V": false,
+        "r": 4
+      },
+      {
+        "V_minus_6d": 3,
+        "kappa_d_le_kappa_V": true,
+        "r": 5
+      },
+      {
+        "V_minus_6d": 9,
+        "kappa_d_le_kappa_V": true,
+        "r": 6
+      },
+      {
+        "V_minus_6d": 17,
+        "kappa_d_le_kappa_V": true,
+        "r": 7
+      },
+      {
+        "V_minus_6d": 27,
+        "kappa_d_le_kappa_V": true,
+        "r": 8
+      },
+      {
+        "V_minus_6d": 39,
+        "kappa_d_le_kappa_V": true,
+        "r": 9
+      },
+      {
+        "V_minus_6d": 53,
+        "kappa_d_le_kappa_V": true,
+        "r": 10
+      },
+      {
+        "V_minus_6d": 69,
+        "kappa_d_le_kappa_V": true,
+        "r": 11
+      },
+      {
+        "V_minus_6d": 87,
+        "kappa_d_le_kappa_V": true,
+        "r": 12
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "75b06af9c61fbb1da6d8eb7c085c166df02d8f097a9f3fdaf971497823ae0383",
+  "title": "Exact Corollary 20 non-vacuousness threshold r >= 5"
+}

@@ -1,0 +1,45 @@
+{
+  "cert_id": "C06",
+  "data": {
+    "samples": [
+      {
+        "k": 1,
+        "m": 3,
+        "ratio_2pow_over_3pow_floor": 1,
+        "ratio_digits": 1,
+        "t": 1
+      },
+      {
+        "k": 2,
+        "m": 9,
+        "ratio_2pow_over_3pow_floor": 3,
+        "ratio_digits": 1,
+        "t": 4
+      },
+      {
+        "k": 3,
+        "m": 27,
+        "ratio_2pow_over_3pow_floor": 42,
+        "ratio_digits": 2,
+        "t": 13
+      },
+      {
+        "k": 4,
+        "m": 81,
+        "ratio_2pow_over_3pow_floor": 99437,
+        "ratio_digits": 5,
+        "t": 40
+      },
+      {
+        "k": 5,
+        "m": 243,
+        "ratio_2pow_over_3pow_floor": 1310953023743578,
+        "ratio_digits": 16,
+        "t": 121
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "c095bc4131dce1f73a275b40bd6fe07ab361cb266b0af27b7b11cda7dba47324",
+  "title": "Exponential pure-strategy space reduction of ternary (b=3) vs binary (b=2) trees"
+}

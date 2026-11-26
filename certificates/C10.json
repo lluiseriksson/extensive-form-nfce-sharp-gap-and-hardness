@@ -1,0 +1,50 @@
+{
+  "cert_id": "C10",
+  "data": {
+    "samples": [
+      {
+        "m_refined_kck_hi_dec": "3.311438",
+        "m_standard_linear": [
+          4,
+          1
+        ],
+        "r": 2
+      },
+      {
+        "m_refined_kck_hi_dec": "16.585236",
+        "m_standard_linear": [
+          18,
+          1
+        ],
+        "r": 3
+      },
+      {
+        "m_refined_kck_hi_dec": "45.858306",
+        "m_standard_linear": [
+          48,
+          1
+        ],
+        "r": 4
+      },
+      {
+        "m_refined_kck_hi_dec": "97.132394",
+        "m_standard_linear": [
+          100,
+          1
+        ],
+        "r": 5
+      },
+      {
+        "m_refined_kck_hi_dec": "893.511951",
+        "m_standard_linear": [
+          900,
+          1
+        ],
+        "r": 10
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "a5d0c9f2d95351a325bd0bfa0e52fbb631e97049d47cbb28d26e28e52a15b448",
+  "title": "Refined Pinsker (Kullback-Csiszar-Kemperman) exact threshold tightening"
+}

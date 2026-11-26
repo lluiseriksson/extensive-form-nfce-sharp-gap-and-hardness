@@ -1,0 +1,250 @@
+{
+  "cert_id": "C04",
+  "data": {
+    "checked_b_range": [
+      2,
+      20
+    ],
+    "sharp_node_quad_const": [
+      1,
+      36
+    ],
+    "table": [
+      {
+        "b": 2,
+        "c_quad": [
+          1,
+          36
+        ],
+        "f_b": [
+          6,
+          1
+        ],
+        "optimal": true
+      },
+      {
+        "b": 3,
+        "c_quad": [
+          1,
+          36
+        ],
+        "f_b": [
+          6,
+          1
+        ],
+        "optimal": true
+      },
+      {
+        "b": 4,
+        "c_quad": [
+          9,
+          400
+        ],
+        "f_b": [
+          20,
+          3
+        ],
+        "optimal": false
+      },
+      {
+        "b": 5,
+        "c_quad": [
+          4,
+          225
+        ],
+        "f_b": [
+          15,
+          2
+        ],
+        "optimal": false
+      },
+      {
+        "b": 6,
+        "c_quad": [
+          25,
+          1764
+        ],
+        "f_b": [
+          42,
+          5
+        ],
+        "optimal": false
+      },
+      {
+        "b": 7,
+        "c_quad": [
+          9,
+          784
+        ],
+        "f_b": [
+          28,
+          3
+        ],
+        "optimal": false
+      },
+      {
+        "b": 8,
+        "c_quad": [
+          49,
+          5184
+        ],
+        "f_b": [
+          72,
+          7
+        ],
+        "optimal": false
+      },
+      {
+        "b": 9,
+        "c_quad": [
+          16,
+          2025
+        ],
+        "f_b": [
+          45,
+          4
+        ],
+        "optimal": false
+      },
+      {
+        "b": 10,
+        "c_quad": [
+          81,
+          12100
+        ],
+        "f_b": [
+          110,
+          9
+        ],
+        "optimal": false
+      },
+      {
+        "b": 11,
+        "c_quad": [
+          25,
+          4356
+        ],
+        "f_b": [
+          66,
+          5
+        ],
+        "optimal": false
+      },
+      {
+        "b": 12,
+        "c_quad": [
+          121,
+          24336
+        ],
+        "f_b": [
+          156,
+          11
+        ],
+        "optimal": false
+      },
+      {
+        "b": 13,
+        "c_quad": [
+          36,
+          8281
+        ],
+        "f_b": [
+          91,
+          6
+        ],
+        "optimal": false
+      },
+      {
+        "b": 14,
+        "c_quad": [
+          169,
+          44100
+        ],
+        "f_b": [
+          210,
+          13
+        ],
+        "optimal": false
+      },
+      {
+        "b": 15,
+        "c_quad": [
+          49,
+          14400
+        ],
+        "f_b": [
+          120,
+          7
+        ],
+        "optimal": false
+      },
+      {
+        "b": 16,
+        "c_quad": [
+          225,
+          73984
+        ],
+        "f_b": [
+          272,
+          15
+        ],
+        "optimal": false
+      },
+      {
+        "b": 17,
+        "c_quad": [
+          64,
+          23409
+        ],
+        "f_b": [
+          153,
+          8
+        ],
+        "optimal": false
+      },
+      {
+        "b": 18,
+        "c_quad": [
+          289,
+          116964
+        ],
+        "f_b": [
+          342,
+          17
+        ],
+        "optimal": false
+      },
+      {
+        "b": 19,
+        "c_quad": [
+          81,
+          36100
+        ],
+        "f_b": [
+          190,
+          9
+        ],
+        "optimal": false
+      },
+      {
+        "b": 20,
+        "c_quad": [
+          361,
+          176400
+        ],
+        "f_b": [
+          420,
+          19
+        ],
+        "optimal": false
+      }
+    ],
+    "unique_optima": [
+      2,
+      3
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "091c65ff66326fea9c101f6cd99831712efbcc60451df28fca075a95b09cc68e",
+  "title": "Exact b-ary matching-tree node overhead optimality (minimum 6 uniquely at b in {2,3})"
+}

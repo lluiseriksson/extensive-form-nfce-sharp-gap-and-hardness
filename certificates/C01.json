@@ -1,0 +1,81 @@
+{
+  "cert_id": "C01",
+  "data": {
+    "checks": [
+      {
+        "B": 16,
+        "D_max": 2,
+        "K": 5,
+        "bit_saving_guaranteed": 32,
+        "bits_chps_approx": 40,
+        "bits_sharp_approx": 7,
+        "s": 3,
+        "strictly_sharper": true
+      },
+      {
+        "B": 64,
+        "D_max": 4,
+        "K": 5,
+        "bit_saving_guaranteed": 33,
+        "bits_chps_approx": 52,
+        "bits_sharp_approx": 18,
+        "s": 5,
+        "strictly_sharper": true
+      },
+      {
+        "B": 1296,
+        "D_max": 6,
+        "K": 13,
+        "bit_saving_guaranteed": 163,
+        "bits_chps_approx": 199,
+        "bits_sharp_approx": 35,
+        "s": 8,
+        "strictly_sharper": true
+      },
+      {
+        "B": 10000,
+        "D_max": 10,
+        "K": 13,
+        "bit_saving_guaranteed": 169,
+        "bits_chps_approx": 240,
+        "bits_sharp_approx": 70,
+        "s": 13,
+        "strictly_sharper": true
+      },
+      {
+        "B": 20736,
+        "D_max": 12,
+        "K": 41,
+        "bit_saving_guaranteed": 678,
+        "bits_chps_approx": 829,
+        "bits_sharp_approx": 151,
+        "s": 25,
+        "strictly_sharper": true
+      },
+      {
+        "B": 1000000,
+        "D_max": 10,
+        "K": 41,
+        "bit_saving_guaranteed": 814,
+        "bits_chps_approx": 1064,
+        "bits_sharp_approx": 250,
+        "s": 41,
+        "strictly_sharper": true
+      },
+      {
+        "B": 16000000,
+        "D_max": 20,
+        "K": 85,
+        "bit_saving_guaranteed": 2250,
+        "bits_chps_approx": 2611,
+        "bits_sharp_approx": 361,
+        "s": 50,
+        "strictly_sharper": true
+      }
+    ],
+    "count": 7
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "27d89daf75331b5d959ae88a902d0063447de9fffef0984e47ebba600d31ad83",
+  "title": "Exact Hadamard active-support LP-gap dominance over CHPS Lemma 14"
+}

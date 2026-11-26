@@ -1,0 +1,35 @@
+{
+  "cert_id": "C03",
+  "data": {
+    "balanced_scaling": [
+      {
+        "K": 221,
+        "d": 10,
+        "kappa_d": 121,
+        "ratio_K_over_kd": "1.826446"
+      },
+      {
+        "K": 5101,
+        "d": 50,
+        "kappa_d": 2601,
+        "ratio_K_over_kd": "1.961168"
+      },
+      {
+        "K": 80401,
+        "d": 200,
+        "kappa_d": 40401,
+        "ratio_K_over_kd": "1.990074"
+      },
+      {
+        "K": 2002001,
+        "d": 1000,
+        "kappa_d": 1002001,
+        "ratio_K_over_kd": "1.998002"
+      }
+    ],
+    "pairs_verified": 100
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "dff8fb053f60192259b4d7c1e89cef6b3589bfd10cba71a3922054063d51bf88",
+  "title": "Two-player support dominance K vs kappa_d across 100 pairs and balanced scaling"
+}

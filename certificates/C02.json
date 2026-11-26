@@ -1,0 +1,82 @@
+{
+  "cert_id": "C02",
+  "data": {
+    "samples": [
+      {
+        "bit_reduction_factor_lo": "2.73",
+        "bits_chps_lo": 1230,
+        "bits_sharp_hi": 449,
+        "kappa_d": 81,
+        "m": 8,
+        "q": 2,
+        "r": 2
+      },
+      {
+        "bit_reduction_factor_lo": "3.91",
+        "bits_chps_lo": 2706,
+        "bits_sharp_hi": 692,
+        "kappa_d": 81,
+        "m": 8,
+        "q": 10,
+        "r": 2
+      },
+      {
+        "bit_reduction_factor_lo": "3.86",
+        "bits_chps_lo": 33553,
+        "bits_sharp_hi": 8676,
+        "kappa_d": 1156,
+        "m": 32,
+        "q": 2,
+        "r": 3
+      },
+      {
+        "bit_reduction_factor_lo": "6.66",
+        "bits_chps_lo": 80990,
+        "bits_sharp_hi": 12144,
+        "kappa_d": 1156,
+        "m": 32,
+        "q": 10,
+        "r": 3
+      },
+      {
+        "bit_reduction_factor_lo": "6.84",
+        "bits_chps_lo": 1132625,
+        "bits_sharp_hi": 165536,
+        "kappa_d": 17424,
+        "m": 128,
+        "q": 2,
+        "r": 5
+      },
+      {
+        "bit_reduction_factor_lo": "14.48",
+        "bits_chps_lo": 3153925,
+        "bits_sharp_hi": 217808,
+        "kappa_d": 17424,
+        "m": 128,
+        "q": 10,
+        "r": 5
+      },
+      {
+        "bit_reduction_factor_lo": "12.78",
+        "bits_chps_lo": 39596214,
+        "bits_sharp_hi": 3097661,
+        "kappa_d": 269361,
+        "m": 512,
+        "q": 2,
+        "r": 8
+      },
+      {
+        "bit_reduction_factor_lo": "30.62",
+        "bits_chps_lo": 119596728,
+        "bits_sharp_hi": 3905744,
+        "kappa_d": 269361,
+        "m": 512,
+        "q": 10,
+        "r": 8
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "dd2286deeaee7e8d332c910d36becc92eb499ecacb2c91dd278860aa629aa5f7",
+  "title": "Bit-precision savings of sharp LCM-Hadamard gap on CHPS matching-tree games"
+}

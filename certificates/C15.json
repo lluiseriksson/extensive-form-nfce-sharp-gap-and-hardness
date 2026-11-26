@@ -1,0 +1,83 @@
+{
+  "cert_id": "C15",
+  "data": {
+    "cases": [
+      {
+        "K": 41,
+        "N_bound": 73,
+        "dims": [
+          4,
+          4
+        ],
+        "n_players": 2,
+        "product_beats_K": true,
+        "product_support": 25
+      },
+      {
+        "K": 221,
+        "N_bound": 421,
+        "dims": [
+          10,
+          10
+        ],
+        "n_players": 2,
+        "product_beats_K": true,
+        "product_support": 121
+      },
+      {
+        "K": 61,
+        "N_bound": 157,
+        "dims": [
+          4,
+          4,
+          4
+        ],
+        "n_players": 3,
+        "product_beats_K": false,
+        "product_support": 125
+      },
+      {
+        "K": 331,
+        "N_bound": 931,
+        "dims": [
+          10,
+          10,
+          10
+        ],
+        "n_players": 3,
+        "product_beats_K": false,
+        "product_support": 1331
+      },
+      {
+        "K": 121,
+        "N_bound": 421,
+        "dims": [
+          5,
+          5,
+          5,
+          5
+        ],
+        "n_players": 4,
+        "product_beats_K": false,
+        "product_support": 1296
+      },
+      {
+        "K": 101,
+        "N_bound": 421,
+        "dims": [
+          4,
+          4,
+          4,
+          4,
+          4
+        ],
+        "n_players": 5,
+        "product_beats_K": false,
+        "product_support": 3125
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "3e24ffaf2cc1ad408ab2557e59924ad0bbf4a7e9b4985a960b42744f6369b437",
+  "title": "Multi-player support comparison: K vs product support and 1+N(N-1) ceiling"
+}

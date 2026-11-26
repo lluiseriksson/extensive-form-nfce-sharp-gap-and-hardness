@@ -1,0 +1,73 @@
+{
+  "cert_id": "C09",
+  "data": {
+    "samples": [
+      {
+        "binary_reduction_factor": [
+          64,
+          1
+        ],
+        "m_chps": 8192,
+        "m_sharp_binary": 128,
+        "r": 5
+      },
+      {
+        "binary_reduction_factor": [
+          64,
+          1
+        ],
+        "m_chps": 16384,
+        "m_sharp_binary": 256,
+        "r": 6
+      },
+      {
+        "binary_reduction_factor": [
+          32,
+          1
+        ],
+        "m_chps": 32768,
+        "m_sharp_binary": 1024,
+        "r": 8
+      },
+      {
+        "binary_reduction_factor": [
+          64,
+          1
+        ],
+        "m_chps": 131072,
+        "m_sharp_binary": 2048,
+        "r": 10
+      },
+      {
+        "binary_reduction_factor": [
+          32,
+          1
+        ],
+        "m_chps": 524288,
+        "m_sharp_binary": 16384,
+        "r": 16
+      },
+      {
+        "binary_reduction_factor": [
+          32,
+          1
+        ],
+        "m_chps": 8388608,
+        "m_sharp_binary": 262144,
+        "r": 32
+      },
+      {
+        "binary_reduction_factor": [
+          32,
+          1
+        ],
+        "m_chps": 134217728,
+        "m_sharp_binary": 4194304,
+        "r": 64
+      }
+    ]
+  },
+  "protocol": "EFG-NFCE-SHARP-1.0",
+  "sha256": "64d72e0ca3063db090f46b18080d6c2f0401028bef1f1adcea383f1bc79bfc5c",
+  "title": "Exact >=32x sharpening of node-based PPAD-hardness matching tree (r >= 5)"
+}

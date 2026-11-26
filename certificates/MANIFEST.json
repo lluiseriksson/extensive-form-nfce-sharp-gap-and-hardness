@@ -1,0 +1,103 @@
+{
+  "certificate_count": 16,
+  "certificates": [
+    {
+      "cert_id": "C01",
+      "file": "C01.json",
+      "sha256": "27d89daf75331b5d959ae88a902d0063447de9fffef0984e47ebba600d31ad83",
+      "title": "Exact Hadamard active-support LP-gap dominance over CHPS Lemma 14"
+    },
+    {
+      "cert_id": "C02",
+      "file": "C02.json",
+      "sha256": "dd2286deeaee7e8d332c910d36becc92eb499ecacb2c91dd278860aa629aa5f7",
+      "title": "Bit-precision savings of sharp LCM-Hadamard gap on CHPS matching-tree games"
+    },
+    {
+      "cert_id": "C03",
+      "file": "C03.json",
+      "sha256": "dff8fb053f60192259b4d7c1e89cef6b3589bfd10cba71a3922054063d51bf88",
+      "title": "Two-player support dominance K vs kappa_d across 100 pairs and balanced scaling"
+    },
+    {
+      "cert_id": "C04",
+      "file": "C04.json",
+      "sha256": "091c65ff66326fea9c101f6cd99831712efbcc60451df28fca075a95b09cc68e",
+      "title": "Exact b-ary matching-tree node overhead optimality (minimum 6 uniquely at b in {2,3})"
+    },
+    {
+      "cert_id": "C05",
+      "file": "C05.json",
+      "sha256": "a8529d6e146f6912d8b687cb4fd10d00e642f046512d63c1b3c2c1838ee133a7",
+      "title": "Exact node, leaf, and b-invariant sequence-form dimension counts for Gamma_b"
+    },
+    {
+      "cert_id": "C06",
+      "file": "C06.json",
+      "sha256": "c095bc4131dce1f73a275b40bd6fe07ab361cb266b0af27b7b11cda7dba47324",
+      "title": "Exponential pure-strategy space reduction of ternary (b=3) vs binary (b=2) trees"
+    },
+    {
+      "cert_id": "C07",
+      "file": "C07.json",
+      "sha256": "75b06af9c61fbb1da6d8eb7c085c166df02d8f097a9f3fdaf971497823ae0383",
+      "title": "Exact Corollary 20 non-vacuousness threshold r >= 5"
+    },
+    {
+      "cert_id": "C08",
+      "file": "C08.json",
+      "sha256": "cf82abda5b558e711995ceb4113eaff8ac91c087881b1e25dfc61c0e131b4fb3",
+      "title": "Exact >=8x sharpening of dimension-based PPAD-hardness matching tree"
+    },
+    {
+      "cert_id": "C09",
+      "file": "C09.json",
+      "sha256": "64d72e0ca3063db090f46b18080d6c2f0401028bef1f1adcea383f1bc79bfc5c",
+      "title": "Exact >=32x sharpening of node-based PPAD-hardness matching tree (r >= 5)"
+    },
+    {
+      "cert_id": "C10",
+      "file": "C10.json",
+      "sha256": "a5d0c9f2d95351a325bd0bfa0e52fbb631e97049d47cbb28d26e28e52a15b448",
+      "title": "Refined Pinsker (Kullback-Csiszar-Kemperman) exact threshold tightening"
+    },
+    {
+      "cert_id": "C11",
+      "file": "C11.json",
+      "sha256": "36e04f067f9dc1084f9f19077b17a8ae69f9007315fba5d9446bf98c4aa1adb6",
+      "title": "Constructive exact m^2-support NFCE on binary Gamma_2(Matching Pennies)"
+    },
+    {
+      "cert_id": "C12",
+      "file": "C12.json",
+      "sha256": "44e43c7ec33744974d20aaab227013965fced95d50b100231afc2d22cb0876d8",
+      "title": "Exact ternary vs binary m^2-support separation on asymmetric game G_{1/3}"
+    },
+    {
+      "cert_id": "C13",
+      "file": "C13.json",
+      "sha256": "f116cfede733bd676f911fa7bbfff457a809b09c0b459c4b61ec0dc9e253246a",
+      "title": "Exact infeasible-support LP vertex gap t*(S)=1/6 vs eta_sharp and eta_CHPS"
+    },
+    {
+      "cert_id": "C14",
+      "file": "C14.json",
+      "sha256": "0fb64dc0323249564b7462d940e61debecb8bc7571a419927540e42c5c381025",
+      "title": "Corollary 20 matching-pennies single-profile impossibility (|V|=7, kappa_V=1)"
+    },
+    {
+      "cert_id": "C15",
+      "file": "C15.json",
+      "sha256": "3e24ffaf2cc1ad408ab2557e59924ad0bbf4a7e9b4985a960b42744f6369b437",
+      "title": "Multi-player support comparison: K vs product support and 1+N(N-1) ceiling"
+    },
+    {
+      "cert_id": "C16",
+      "file": "C16.json",
+      "sha256": "9fb5e55585a9104ca72cf974bbf988a017026a7f25481c839e631a6d645884d6",
+      "title": "Self-referential AST zero-float and exact-arithmetic security audit"
+    }
+  ],
+  "manifest_sha256": "988e9daebba66694685e23fb17a80c68880f4ff659b9cdbcaa08fcabc18dab52",
+  "protocol": "EFG-NFCE-SHARP-1.0"
+}
